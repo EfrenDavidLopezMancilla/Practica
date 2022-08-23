@@ -1,2 +1,0 @@
-# Practica
-Repositorio de prueba
